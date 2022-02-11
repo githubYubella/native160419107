@@ -1,4 +1,5 @@
 package id.ac.ubaya.myapplication
 
-class margareta y {
+class margareta_y {
+     var num :Int=5
 }
