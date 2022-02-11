@@ -6,9 +6,10 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
 
     //coba hello world
-    fun main(args : Array<String>) {
-        println("Hello, World!")
-    }
+    var login:Boolean = false
+
+
+    //coba hello world 2
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
