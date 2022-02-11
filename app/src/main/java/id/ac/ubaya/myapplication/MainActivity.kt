@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
 
     //coba hello world 2
+    var nomor :Int
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
